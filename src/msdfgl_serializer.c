@@ -1,8 +1,8 @@
 #include <math.h>
 #include <stdbool.h>
 
-#include "msdfgl.h"
-#include "msdfgl_serializer.h"
+#include "../include/msdfgl.h"
+#include "../include/msdfgl_serializer.h"
 
 enum Color {
     BLACK = 0,

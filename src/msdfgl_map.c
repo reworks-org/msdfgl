@@ -1,4 +1,4 @@
-#include "msdfgl_map.h"
+#include "../include/msdfgl_map.h"
 
 
 void msdfgl_map_init(msdfgl_map_t *map) {
